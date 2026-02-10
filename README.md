@@ -2,7 +2,6 @@
 
 **From Healthcare to IT** | Final-Year IT Student | Backend Developer | Healthcare IT Enthusiast
 
----
 
 Welcome to my GitHub profie!
 
@@ -10,7 +9,6 @@ I'm now in my final year studying Business IT at JAMK. My studies have focused o
 
 Technology is developing at a dizzying pace, so humane skills such as creativity, empathy and critical thinking will be increasingly emphasized. Nursing taught me to stay calm in chaotic situations, prioritize effectively, and collaborate in multidisciplinary teams. 
 
----
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +31,6 @@ Technology is developing at a dizzying pace, so humane skills such as creativity
 - Postman
 - REST APIs
 
----
 
 ## 🚀 What I'm Working On
 
@@ -42,7 +39,6 @@ Technology is developing at a dizzying pace, so humane skills such as creativity
 - 📚 Writing my thesis on Failure Handling in Autonomous AI Agents
 - 🔨 Working on a project as a backend dev and scrum master
 
----
 
 ## 🌟 Featured Project
 
@@ -66,7 +62,6 @@ A full serverless application built with AWS infrastructure-as-code.
 - Team collaboration as Scrum Master
 - The hard way about AWS Free Tier limits 😅
 
----
 
 ## 💡 What Makes Me Different
 
@@ -86,7 +81,6 @@ A full serverless application built with AWS infrastructure-as-code.
 - Customer support experience
 - Calm under pressure, systematic problem-solving
 
----
 
 ## 📫 Let's Connect
 
@@ -94,18 +88,14 @@ A full serverless application built with AWS infrastructure-as-code.
 - 📧 [Email]lottamaria98@gmail.com
 
 
----
-
 ## ☕ Fun Facts
 
 - 🎮 Gamer in free time
 - 📚 Avid reader
 - 🌿 Nature enthusiast
 
----
 
 *"The best code is code that helps people"* 💙
 
----
 
 **Available for summer 2026 internships** | Open to collaboration on projects

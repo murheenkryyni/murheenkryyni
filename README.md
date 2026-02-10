@@ -1,6 +1,7 @@
 # Hi, I'm Lotta! 👋
 
-**From Healthcare to IT** | Final-Year IT Student | Backend Developer | Healthcare IT Enthusiast
+**From Healthcare to IT** | Final-Year IT Student | Backend Developer | Healthcare IT Enthusiast | 
+**Available for summer 2026 internships** | Open to collaboration on projects
 
 
 Welcome to my GitHub profie!
@@ -63,25 +64,6 @@ A full serverless application built with AWS infrastructure-as-code.
 - The hard way about AWS Free Tier limits 😅
 
 
-## 💡 What Makes Me Different
-
-**Healthcare Background:**
-- Deep understanding of healthcare workflows and EHR systems
-- GDPR and patient data handling experience
-- User empathy from working with patients
-- System thinking: understanding how components affect the whole
-- Critical thinking
-
-**Fast Learner:**
-- Switched careers from nursing to IT
-- Mastered two enterprise systems in 2 weeks (summer job)
-- Constantly learning new technologies and frameworks
-
-**Service Mindset:**
-- Customer support experience
-- Calm under pressure, systematic problem-solving
-
-
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn]www.linkedin.com/in/lotta-nasman
@@ -96,6 +78,3 @@ A full serverless application built with AWS infrastructure-as-code.
 
 
 *"The best code is code that helps people"* 💙
-
-
-**Available for summer 2026 internships** | Open to collaboration on projects

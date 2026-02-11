@@ -1,8 +1,6 @@
 # Hi, I'm Lotta! 👋
 
-**From Healthcare to IT** | Final-Year IT Student | Backend Developer | Healthcare IT Enthusiast | 
-**Available for summer 2026 internships** | Open to collaboration on projects
-
+**From Healthcare to IT** | Final-Year IT Student | Healthcare IT Enthusiast | **Available for summer 2026 internships** | Open to collaboration on projects
 
 Welcome to my GitHub profie!
 
@@ -16,7 +14,6 @@ Technology is developing at a dizzying pace, so humane skills such as creativity
 **Languages:**
 - TypeScript
 - JavaScript
-- Java
 - Python
 - SQL
 
@@ -31,6 +28,13 @@ Technology is developing at a dizzying pace, so humane skills such as creativity
 - VS Code
 - Postman
 - REST APIs
+
+**Also comfortable with:**
+- NoSQL (DynamoDB, MongoDB)
+- Java
+- Angular
+- CSS and HTML
+- PHP
 
 
 ## 🚀 What I'm Working On
@@ -64,10 +68,10 @@ A full serverless application built with AWS infrastructure-as-code.
 - The hard way about AWS Free Tier limits 😅
 
 
-## 📫 Let's Connect
+## ✨ Let's Connect
 
-- 💼 [LinkedIn]www.linkedin.com/in/lotta-nasman
-- 📧 [Email]lottamaria98@gmail.com
+- 💼 www.linkedin.com/in/lotta-nasman
+- 📫 lottamaria98@gmail.com
 
 
 ## ☕ Fun Facts

@@ -15,7 +15,7 @@ Technology is developing at a dizzying pace, so humane skills such as creativity
 - TypeScript
 - JavaScript
 - Python
-- SQL
+- SQL (mySQL)
 
 **Cloud & Infrastructure:**
 - AWS
